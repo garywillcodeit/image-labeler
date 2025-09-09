@@ -1,0 +1,25 @@
+<annotation>
+    <folder>[LOCAL FOLDER HERE]</folder>
+    <filename>[FILENAME]</filename>
+    <path>[LOCAL PATH HERE]</path>
+    <source>
+    <database>Unknow</database>
+    </source>
+    <size>
+        <width>[WIDTH]</width>
+        <height>[HEIGHT]</height>
+        <depth>[DEPTH]</depth>
+    </size>
+    <!-- <object>
+        <name>[OBJECT NAME]</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>[XMIN]</xmin>
+            <ymin>[YMIN]</ymin>
+            <xmax>[XMAX]</xmax>
+            <ymax>[YMAX]</ymax>
+        </bndbox>
+    </object> -->
+</annotation>

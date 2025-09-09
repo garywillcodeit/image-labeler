@@ -1,0 +1,17 @@
+venv
+app/tensorflow/workspace/pre-trained-models/*
+app/tensorflow/workspace/images/train/*
+app/tensorflow/workspace/images/test/*
+app/utils/categories.json
+app/database/*
+app/models/*
+image-data
+dev-task.txt
+script.py
+*.pyc
+evaluate.py
+*.DS_Store
+tfodboard_frontend
+.env
+
+__pycache__/*
