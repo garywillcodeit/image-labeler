@@ -10,7 +10,7 @@ Users can draw bounding boxes, assign labels, and export annotations in multiple
 
 ## 📸 Screenshot
 
-![Screenshot](https://github.com/garywillcodeit/image-labeler/tree/main/sceenshots/screenshot1.png)
+![Screenshot](https://github.com/garywillcodeit/image-labeler/blob/main/screenshots/screenshot1.png)
 
 ## 🔧 Tech Stack
 
